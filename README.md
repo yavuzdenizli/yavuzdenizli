@@ -7,7 +7,7 @@ Learning offensive security, currently working through HTB Academy's CPTS pathwa
 - HTB CPTS pathway (target: early 2027)
 - Python & Bash for security automation
 - Building a home lab (Proxmox + vulnerable VMs)
-- Writing about what I learn at [yavuzdenizli.com](https://yavuzdenizli.com) *(coming soon)*
+- Writing about what I learn at [yavuzdenizli.com](https://yavuzdenizli.com) 
 
 **Long-term goal:** Offensive security specialist — pentesting, red team.
 
@@ -18,4 +18,4 @@ Learning offensive security, currently working through HTB Academy's CPTS pathwa
 
 ---
 
-Contact: [LinkedIn](#) *(soon)* · [Blog](#) *(soon)*
+Contact: [LinkedIn](#) *(soon)* · [Blog](#) 
