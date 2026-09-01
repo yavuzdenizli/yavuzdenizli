@@ -14,7 +14,6 @@ Learning offensive security, currently working through HTB Academy's CPTS pathwa
 **Roadmap:**
 - 2027 → HTB CPTS, OffSec OSCP
 - 2028+ → Red team certs (CRTO, COAE, CWEE, etc.)
-- 2029-2031 → M.Sc. Computer Engineering @ Politecnico di Torino
 
 ---
 
